@@ -1,0 +1,7 @@
+uzivatel: jmeno heslo: admin (2-3 uživ)
+
+1) nacist opravneni
+2) vytvorit skupiny
+3) nacist uzivatele
+4) vytvorit uzivatele --uziv
+5) priradit uzivatele do skupiny
